@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
-namespace WebShop.Shared.Models;
+﻿namespace WebShop.Shared.Models;
 
 public class Product
 {
